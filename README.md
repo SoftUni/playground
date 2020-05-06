@@ -1,3 +1,3 @@
 # Playground GitHub Repo
 
-Playground repo for live demo sessions
+Playground repo for live demo sessions.
