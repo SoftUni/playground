@@ -1,6 +1,2 @@
 This is a sample text document.
-<<<<<<< HEAD
-Hello from Bob.
-=======
 Hello from Alice
->>>>>>> 5af3265bc63dee39bc8cc6386331bb2275784841
