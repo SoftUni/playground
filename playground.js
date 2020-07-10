@@ -1,1 +1,1 @@
-console.log("this is a playground");
+console.log("Hello from JavaScript");
