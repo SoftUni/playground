@@ -7,6 +7,9 @@ I am Klimentina
 <<<<<<< HEAD
 Наков е пич! 
 =======
+I am Darin :)
 
 I am Alex and I love Dinamo Zagreb
 >>>>>>> 9bbecdbfe4dfabf214c3be550abb28c3ca98c611
+
+I am Simo
