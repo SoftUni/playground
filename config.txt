@@ -1,2 +1,3 @@
 font_size=16pt
 font-family: Helvetica, sans-serif;
+name = Nedka
