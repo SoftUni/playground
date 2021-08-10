@@ -2,6 +2,8 @@
 
 Някакви промени от 10 август 2021 г.
 
+Още промени от август.
+
 Playground repo for live demo sessions.
 
 It holds some code + documentation, just for playing.
