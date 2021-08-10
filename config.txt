@@ -1,9 +1,6 @@
 font_size=16pt
-<<<<<<< HEAD
 font_size=16pt
 color:fff; //Slavi;)
-=======
 first_name=Peter
->>>>>>> f18a96c500435d0d75462c07401404a6db755abb
 name = Nedka
 const username = "stelko0"
