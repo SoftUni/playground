@@ -5,7 +5,7 @@ USE Relations
 CREATE TABLE Passports
 (
 	PassportID INT PRIMARY KEY IDENTITY (101,1),
-	PassportNumber CHAR(8)
+	PassportNumber  CHAR(8)
 )
 
 CREATE TABLE Persons
