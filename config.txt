@@ -1,4 +1,8 @@
 font_size=16pt
 name = Nedka
+<<<<<<< HEAD
 
 name = Mitko
+=======
+const username = "stelko0"
+>>>>>>> bccda4090eeb054ed3f163fc99809e2f17d5c533
