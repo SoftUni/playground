@@ -1,3 +1,9 @@
 font_size=16pt
 font-family: Helvetica, sans-serif;
 name = Nedka
+color:fff; //Slavi;)
+first_name=Peter
+name = Nedka
+name = Stoyan
+last_name = "Blagoeva"
+const username = "stelko0"
