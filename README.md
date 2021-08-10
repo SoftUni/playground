@@ -1,5 +1,7 @@
 # Playground GitHub Repo
 
+Някакви промени от 10 август 2021 г.
+
 Playground repo for live demo sessions.
 
 It holds some code + documentation, just for playing.
