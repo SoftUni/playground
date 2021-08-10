@@ -1,2 +1,4 @@
 font_size=16pt
+font_size=16pt
 color:fff; //Slavi;)
+name = Nedka
