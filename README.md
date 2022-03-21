@@ -14,5 +14,5 @@ This file was edited by Bob
 
 Edit from Darin's MacBook :)
 
-edited frim Neri
+edited from Neri
 
