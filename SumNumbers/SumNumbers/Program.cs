@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SumNUmbers
+namespace SumNumbers
 {
     class Program
     {
