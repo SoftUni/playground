@@ -16,8 +16,5 @@ Edit from Darin's MacBook :)
 
 edited from Neri
 
-Някакви промени от 13 юни 2023
-
-Това е добавено от Боб на 13 юни 2023 г.
-
 Добавено от Алън
+Software Technologies test
