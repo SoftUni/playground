@@ -22,4 +22,4 @@ edited from Neri
 
 Добавено от Алън
 
-Nikola
+Nikola update from local pc
