@@ -21,3 +21,10 @@ edited from Neri
 Това е добавено от Боб на 13 юни 2023 г.
 
 Добавено от Алън
+
+<<<<<<< HEAD
+Nikola update from local pc
+=======
+Nikola
+edit from github
+>>>>>>> 2f4a124393e0039a95955974f725b0ac0f17f9f2
